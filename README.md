@@ -5,11 +5,9 @@ Home: https://github.com/samuelcolvin/watchgod
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/watchgod-feedstock/blob/master/LICENSE.txt)
 
 Summary: Simple, modern file watching and code reload in python.
-
-
 
 Current build status
 ====================
