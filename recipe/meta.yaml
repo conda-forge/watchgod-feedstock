@@ -21,9 +21,10 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.5
+    - python >=3.7
   run:
-    - python >=3.5
+    - python >=3.7
+    - anyio >=3.0.0,<4
 
 test:
   imports:
