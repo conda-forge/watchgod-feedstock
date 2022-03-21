@@ -1,5 +1,5 @@
 {% set name = "watchgod" %}
-{% set version = "0.8" %}
+{% set version = "0.8.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 29a1d8f25e1721ddb73981652ca318c47387ffb12ec4171ddd7b9d01540033b1
+  sha256: c12d15f3df7d11e740704e45398277f75f1d78f46ad59ca9d7505bfd8b8d3086
 
 build:
   number: 0
